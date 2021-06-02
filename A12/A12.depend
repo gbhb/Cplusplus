@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1545388690 source:c:\users\msn71\onedrive\орн▒\c++\a12\a12-107502558class.cpp
+	"A12-107502558class.h"
+	<string>
+	<iostream>
+
+1545387432 c:\users\msn71\onedrive\орн▒\c++\a12\a12-107502558class.h
+	<string>
+	<iostream>
+
+1545388324 source:c:\users\msn71\onedrive\орн▒\c++\a12\a12-107502558.cpp
+	<iostream>
+	<string>
+	"A12-107502558class.h"
+

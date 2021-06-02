@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544770676 source:c:\users\msn71\onedrive\орн▒\c++\e10\main.cpp
+	<iostream>
+	"myTime.h"
+
+1544770732 c:\users\msn71\onedrive\орн▒\c++\e10\mytime.h
+
+1544770976 source:c:\users\msn71\onedrive\орн▒\c++\e10\mytime.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	"myTime.h"
+

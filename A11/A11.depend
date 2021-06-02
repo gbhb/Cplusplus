@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544721542 source:c:\users\msn71\onedrive\орн▒\c++\a11\a11-107502558.cpp
+	<iostream>
+	"mystring.h"
+
+1544759108 c:\users\msn71\onedrive\орн▒\c++\a11\mystring.h
+
+1545141940 source:c:\users\msn71\onedrive\орн▒\c++\a11\mystring.cpp
+	"mystring.h"
+	<iostream>
+	<cstdlib>
+	<iomanip>
+

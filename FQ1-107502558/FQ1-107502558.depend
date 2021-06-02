@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1547199274 source:c:\users\user\desktop\fq1-107502558\fq-107502558class.cpp
+	"FQ-107502558class.h"
+	<string>
+	<iostream>
+
+1547199379 c:\users\user\desktop\fq1-107502558\fq-107502558class.h
+	<string>
+	<iostream>
+
+1547199276 source:c:\users\msn71\onedrive\орн▒\c++\fq1-107502558\fq-107502558class.cpp
+	"FQ-107502558class.h"
+	<string>
+	<iostream>
+
+1547225952 c:\users\msn71\onedrive\орн▒\c++\fq1-107502558\fq-107502558class.h
+	<string>
+	<iostream>
+
+1547225827 source:c:\users\msn71\onedrive\орн▒\c++\fq1-107502558\fq-107502558.cpp
+	<iostream>
+	<cstdlib>
+	<climits>
+	<algorithm>
+	<fstream>
+	<istream>
+	"FQ-107502558class.h"
+	<vector>
+	<string>
+
